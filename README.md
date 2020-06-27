@@ -1,6 +1,20 @@
 # learn-to-code
 Learn to code. 
 
+## Get Started
+
+- [CS50 Beyond 2019](https://www.youtube.com/playlist?list=PLhQjrBD2T381Q6R1jRxgXknYO7VuTYPBI) – Harvard Uni Resource
+
+- Learn git/GitHub: [Git and GitHub - CS50 Beyond 2019
+](https://www.youtube.com/watch?v=eulnSXkhE7I)
+
+
+### Learn React.js
+
+- https://kentcdodds.com/
+
+## Learn Specific Languages or Frameworks
+
 - [Learn nginx]()
 - [Learn JavaScript](https://github.com/macintoshhelper/learn-js)
   - [Polymer](https://github.com/macintoshhelper/learn-polymer) (note: move to right repo)
